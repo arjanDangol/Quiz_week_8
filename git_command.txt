@@ -4,3 +4,12 @@ To clone the repository from remote GitHub to the local:
 To check the status of the local repo:
     git status
 
+To add the local changes for commit:
+    git add .
+
+To commit all the changes with the message:
+    git commit -m "Change message"
+
+To update the remote branch of the repo:
+    git push
+
