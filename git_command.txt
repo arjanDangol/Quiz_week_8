@@ -13,3 +13,5 @@ To commit all the changes with the message:
 To update the remote branch of the repo:
     git push
 
+To get git log
+    git log > git.text
